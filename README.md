@@ -103,6 +103,7 @@
 | T10                     | https://www.t10.digital/                    | Home-office           |
 | Tata Consultancy        | https://www.tcs.com/                        | Home-office           |
 | TIVIT                   | https://tivit.com/                          | Home-office e Híbrido |
+| Trevora Softwares       | https://trevora.com.br/                     | Home-office           |
 | Vetta                   | https://vetta.gupy.io/                      | Home-office           |
 | Virtual Mind            | https://www.virtualmind.com/                | Home-office           |
 | Vybrant                 | https://vybrantech.com/                     | Home-office           |
